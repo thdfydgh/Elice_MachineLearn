@@ -1,7 +1,8 @@
 # Elice_MachineLearn
 
 #AI_Level1 파일
-    Lib_For_DA
+
+    #Lib_For_DA파일        
         -Numpy
             array
             ndim
