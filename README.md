@@ -23,5 +23,8 @@
             집계함수
             groupby
             aggregate
-    
+        
+        -Matplotlib
+            스포츠 히스토그램.
+            포켓몬 산점도.
 
